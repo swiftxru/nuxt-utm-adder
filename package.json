@@ -1,0 +1,20 @@
+{
+  "name": "nuxt-utm-adder",
+  "version": "1.0.0",
+  "description": "UTM Adder",
+  "license": "MIT",
+  "main": "lib/module.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "eslintIgnore": [
+    "*"
+  ],
+  "files": [
+    "lib"
+  ],
+  "dependencies": {
+    "string-replace-loader": "^2.1.1",
+    "intersection-observer": "^0.7.0"
+  }
+}
