@@ -1,6 +1,6 @@
 # Nuxt UTM Adder
 
-##📃 Description
+## 📃 Description
 Plugin to add utm tags to all links on a page
 
 ## 📦 Installation
@@ -13,7 +13,7 @@ Plugin to add utm tags to all links on a page
 
 `yarn add @norvikit/nuxt-utm-adder`
 
-##🚀 Usage
+## 🚀 Usage
 
 ```
 // nuxt.config.js
