@@ -1,6 +1,6 @@
 {
   "name": "@norvikit/nuxt-utm-adder",
-  "version": "0.0.0-development",
+  "version": "0.1.0",
   "description": "UTM Adder",
   "license": "MIT",
   "main": "lib/module.js",
