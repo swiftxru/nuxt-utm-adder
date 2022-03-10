@@ -11,6 +11,10 @@
     "type": "git",
     "url": "https://github.com/NorvikIT/nuxt-utm-adder.git"
   },
+  "bugs": {
+    "url": "https://github.com/NorvikIT/nuxt-utm-adder/issues"
+  },
+  "homepage": "https://github.com/NorvikIT/nuxt-utm-adder#readme",
   "keywords": [
     "vue",
     "vuejs",
@@ -19,10 +23,6 @@
     "seo"
   ],
   "author": "norvikit",
-  "bugs": {
-    "url": "https://github.com/NorvikIT/nuxt-utm-adder/issues"
-  },
-  "homepage": "https://github.com/NorvikIT/nuxt-utm-adder#readme",
   "eslintIgnore": [
     "*"
   ],
