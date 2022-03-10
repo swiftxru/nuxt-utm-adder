@@ -1,12 +1,28 @@
 {
-  "name": "nuxt-utm-adder",
-  "version": "1.0.0",
+  "name": "@norvikit/nuxt-utm-adder",
+  "version": "0.1.0",
   "description": "UTM Adder",
   "license": "MIT",
   "main": "lib/module.js",
   "publishConfig": {
     "access": "public"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NorvikIT/nuxt-utm-adder.git"
+  },
+  "keywords": [
+    "vue",
+    "vuejs",
+    "nuxt",
+    "utm",
+    "seo"
+  ],
+  "author": "norvikit",
+  "bugs": {
+    "url": "https://github.com/NorvikIT/nuxt-utm-adder/issues"
+  },
+  "homepage": "https://github.com/NorvikIT/nuxt-utm-adder#readme",
   "eslintIgnore": [
     "*"
   ],
