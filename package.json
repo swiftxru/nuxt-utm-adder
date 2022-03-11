@@ -30,9 +30,10 @@
     "lib"
   ],
   "dependencies": {
+    "@norvikit/utm-aska": "^1.0.2",
     "intersection-observer": "^0.7.0",
-    "string-replace-loader": "^2.1.1",
-    "js-cookie": "^3.0.1"
+    "js-cookie": "^3.0.1",
+    "string-replace-loader": "^2.1.1"
   },
   "scripts": {
     "semantic-release": "semantic-release"
