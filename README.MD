@@ -1,6 +1,7 @@
 # Nuxt UTM Adder
 ![Size](https://img.shields.io/bundlephobia/minzip/@norvikit/nuxt-utm-adder)
 ![Version](https://img.shields.io/npm/v/@norvikit/nuxt-utm-adder)
+![Downloads](https://img.shields.io/npm/dt/@norvikit/nuxt-utm-adder)
 
 ## 📃 Description
 Plugin to add utm tags to all links on a page
